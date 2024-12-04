@@ -7,7 +7,7 @@ from discord.ext.commands.bot import Bot
 
 from .bot import DiscordBot
 from .constants import BotConstants
-from .db import Database
+from .database import Database
 
 
 class Main:
