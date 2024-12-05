@@ -1,6 +1,6 @@
 from typing import Optional
 
-from ....db import Database
+from ....database import Database
 
 
 class PointsUtils:

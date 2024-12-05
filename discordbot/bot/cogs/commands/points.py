@@ -9,7 +9,7 @@ from loguru import logger
 
 from discordbot.bot.utils.admin.utils import AdminCheck
 
-from ....db import Database
+from ....database import Database
 from ...utils import ChannelUtils, PointsUtils, EmbedUtilities
 
 

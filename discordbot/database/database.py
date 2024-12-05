@@ -7,6 +7,7 @@ from contextlib import contextmanager
 
 from loguru import logger
 
+
 class Database:
     def __init__(self) -> None:
         if not os.path.exists('db'):
